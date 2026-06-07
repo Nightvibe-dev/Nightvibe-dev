@@ -1,16 +1,41 @@
-## Hi there 👋
+# NightVibe 🌑
 
-<!--
-**Nightvibe-dev/Nightvibe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perfil personal de desarrollo enfocado en aprendizaje, experimentación y construcción de proyectos con enfoque modular.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+Soy estudiante con interés en la programación y el desarrollo de proyectos digitales.  
+Exploro constantemente nuevas herramientas y formas de mejorar mis habilidades técnicas.
+
+---
+
+## ⚙️ Habilidades actuales
+- JavaScript (nivel básico / en progreso)
+- Git y GitHub
+- Node.js básico
+- Estructuración de proyectos simples
+
+---
+
+## 📂 Proyectos
+- Proyecto 1: en desarrollo
+- Proyecto 2: en desarrollo
+
+> Nota: Esta sección se actualizará conforme avance mi experiencia.
+
+---
+
+## 🎯 Objetivo
+Mejorar mis habilidades en desarrollo de software construyendo proyectos reales y escalables, enfocándome en buenas prácticas y estructura limpia.
+
+---
+
+## 📫 Contacto
+- GitHub: tu_usuario
+- Email: (opcional)
+
+---
+
+## ⚠️ Estado del perfil
+En evolución constante. Actualizaciones frecuentes.

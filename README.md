@@ -1,4 +1,4 @@
-l# NightVibe 🌑
+# NightVibe 🌑
 
 Perfil personal de desarrollo enfocado en aprendizaje, experimentación y construcción de proyectos con enfoque modular.
 

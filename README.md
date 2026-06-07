@@ -1,4 +1,4 @@
-# NightVibe 🌑
+l# NightVibe 🌑
 
 Perfil personal de desarrollo enfocado en aprendizaje, experimentación y construcción de proyectos con enfoque modular.
 
@@ -32,8 +32,8 @@ Mejorar mis habilidades en desarrollo de software construyendo proyectos reales 
 ---
 
 ## 📫 Contacto
-- GitHub: tu_usuario
-- Email: (opcional)
+- GitHub: NightVibe-dev
+- Email: 
 
 ---
 

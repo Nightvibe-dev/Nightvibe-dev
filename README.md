@@ -33,7 +33,7 @@ Mejorar mis habilidades en desarrollo de software construyendo proyectos reales 
 
 ## 📫 Contacto
 - GitHub: NightVibe-dev
-- Email: 
+- Email: quien sabe?
 
 ---
 

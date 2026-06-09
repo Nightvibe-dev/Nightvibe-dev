@@ -1,169 +1,100 @@
 <div align="center">
 
-# 🌙 N I G H T V I B Ξ
+🌙 N I G H T V I B Ξ
 
-### Developer • Creator • AI Architect
+Creator of NEXARIS Ω
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🧠 Diseñando sistemas inteligentes • ⚡ Construyendo el futuro • 🚀 Innovando sin límites
+🧠 Artificial Intelligence  
+⚡ System Development  
+🎨 Creative Design  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+<img src="./banner.png" alt="NightVibe Banner" width="100%" />
 
 </div>
 
 <br>
 
-## 👤 SOBRE MÍ
+🖤 About Me
 
-<img align="right" width="300" src="https://i.imgur.com/8Km9tLL.png"/>
+Name      : NightVibe  
+Role      : Developer  
+Focus     : Artificial Intelligence  
+Project   : NEXARIS Ω  
+Status    : Building the Future  
 
-Hola, soy **NightVibe**.
+Desarrollador enfocado en inteligencia artificial,
+automatización y sistemas conversacionales.
 
-Desarrollo proyectos enfocados en:
-
-- 🧠 Inteligencia Artificial
-- ⚙️ Automatización
-- 💬 Sistemas Conversacionales
-- 🎨 Diseño Tecnológico
-- 🚀 Arquitecturas Modulares
-
-Actualmente estoy construyendo:
-
-### Ω NEXARIS OMEGA
-
-Una IA conversacional avanzada diseñada para evolucionar mediante módulos especializados, memoria dinámica y simulación emocional.
-
-> *"No es solo código, es construir realidades."*
-
-<br clear="right"/>
+Actualmente desarrollando NEXARIS Ω, una IA modular
+diseñada para evolucionar mediante memoria dinámica,
+aprendizaje continuo y sistemas especializados.
 
 ---
 
-# 🚀 PROYECTOS DESTACADOS
+🚀 Main Project
 
-<table>
-<tr>
+Ω NEXARIS OMEGA
 
-<td width="50%">
+VERSION   : 5.1.0  
+CODENAME  : OMEGA  
 
-## Ω NEXARIS OMEGA
+MODULES  
 
-### IA Conversacional Avanzada
-
-🧠 Memoria Dinámica
-
-🎭 Simulación Emocional
-
-📚 Sistema Educativo
-
-⚙️ Arquitectura Modular
-
-🔒 Sistema de Seguridad
-
-🌐 Eventos Especiales
-
-</td>
-
-<td width="50%">
-
-```text
-STATUS: ONLINE
-
-VERSION: 5.1.0
-
-CODENAME: OMEGA
-
-MEMORY: ACTIVE
-
-EMOTION: ACTIVE
-
-LEARNING: ACTIVE
-```
-
-</td>
-
-</tr>
-</table>
+✓ Memory System  
+✓ Emotion Engine  
+✓ Education Core  
+✓ Event System  
+✓ Security Layer  
+✓ Modular Architecture  
 
 ---
 
-# 🧠 CAPACIDADES
+⚡ Technologies
 
-| Sistema | Estado |
-|----------|----------|
-| Memoria Inteligente | 🟢 Activo |
-| Simulación Emocional | 🟢 Activo |
-| Aprendizaje Modular | 🟢 Activo |
-| Motor Educativo | 🟢 Activo |
-| Eventos Especiales | 🟢 Activo |
-| Seguridad Avanzada | 🟢 Activo |
+<p align="center">  
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />  
+</p>  
 
 ---
 
-# 💻 TECNOLOGÍAS
+📊 GitHub Stats
 
-<div align="center">
+<p align="center">  
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,react,git,github,linux,bash,vscode" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>  
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>  
 
----
-
-# 📊 ESTADÍSTICAS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>  
 
 ---
 
-# ⚡ FILOSOFÍA
+🌌 Philosophy
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║  La imaginación es el inicio         ║
-║  de toda innovación.                 ║
-║                                      ║
-║  Diseña. Construye. Evoluciona.      ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+"Beyond Commands, Beyond Logic"  
 
----
-
-# 🌌 OBJETIVOS
-
-- Crear sistemas de IA cada vez más autónomos.
-- Llevar NEXARIS Ω a su versión definitiva.
-- Diseñar arquitecturas escalables.
-- Fusionar creatividad y tecnología.
-- Construir proyectos con identidad propia.
+Create.  
+Build.  
+Evolve.  
 
 ---
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# N I G H T V I B Ξ
+N I G H T V I B Ξ
 
-### Creator of NEXARIS Ω
+Ω Creator of NEXARIS Ω
 
-*"Beyond Commands, Beyond Logic."*
+🌙 Dream • Build • Evolve 🌙
 
-<br>
-
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-Profile-7a3cff?style=for-the-badge">
-</a>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>

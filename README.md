@@ -1,100 +1,127 @@
 <div align="center">
 
-🌙 N I G H T V I B Ξ
+<br><br>
 
-Creator of NEXARIS Ω
+# 🌙 N I G H T V I B Ξ
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
 
-🧠 Artificial Intelligence  
-⚡ System Development  
-🎨 Creative Design  
+### Creator of NEXARIS Ω
+
+<br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
+
+## 🧠 Artificial Intelligence  
+## ⚡ System Development  
+## 🎨 Creative Design  
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
 
 <img src="./banner.png" alt="NightVibe Banner" width="100%" />
 
+<br><br><br>
+
 </div>
+
+---
 
 <br>
 
-🖤 About Me
-
-Name      : NightVibe  
-Role      : Developer  
-Focus     : Artificial Intelligence  
-Project   : NEXARIS Ω  
-Status    : Building the Future  
-
+## 🖤 ABOUT ME
 Desarrollador enfocado en inteligencia artificial,
 automatización y sistemas conversacionales.
 
-Actualmente desarrollando NEXARIS Ω, una IA modular
+Actualmente desarrollando **NEXARIS Ω**, una IA modular
 diseñada para evolucionar mediante memoria dinámica,
 aprendizaje continuo y sistemas especializados.
 
 ---
 
-🚀 Main Project
+<br>
 
-Ω NEXARIS OMEGA
+## 🚀 MAIN PROJECT
 
-VERSION   : 5.1.0  
-CODENAME  : OMEGA  
+<br>
 
-MODULES  
+# Ω NEXARIS OMEGA
 
-✓ Memory System  
-✓ Emotion Engine  
-✓ Education Core  
-✓ Event System  
-✓ Security Layer  
-✓ Modular Architecture  
+<br>
+
+### MODULES
 
 ---
 
-⚡ Technologies
+<br>
 
-<p align="center">  
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />  
-</p>  
+## ⚡ TECHNOLOGIES
 
----
+<br>
 
-📊 GitHub Stats
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux" />
+</p>
 
-<p align="center">  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>  
-
-</p>  
+<br>
 
 ---
 
-🌌 Philosophy
+## 📊 GITHUB STATS
 
-"Beyond Commands, Beyond Logic"  
+<br>
 
-Create.  
-Build.  
-Evolve.  
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br>
+
+---
+
+## 🌌 PHILOSOPHY
+
+<br>
+
+> "Beyond Commands, Beyond Logic"
+
+<br>
+
+<br>
 
 ---
 
 <div align="center">
 
+<br>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-N I G H T V I B Ξ
+<br>
+
+# N I G H T V I B Ξ
+
+<br>
 
 Ω Creator of NEXARIS Ω
 
+<br>
+
 🌙 Dream • Build • Evolve 🌙
 
+<br>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
 
 </div>

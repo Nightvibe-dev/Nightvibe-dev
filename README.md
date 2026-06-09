@@ -1,41 +1,169 @@
-# NightVibe 🌑
+<div align="center">
 
-Perfil personal de desarrollo enfocado en aprendizaje, experimentación y construcción de proyectos con enfoque modular.
+# 🌙 N I G H T V I B Ξ
+
+### Developer • Creator • AI Architect
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 Diseñando sistemas inteligentes • ⚡ Construyendo el futuro • 🚀 Innovando sin límites
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<br>
+
+## 👤 SOBRE MÍ
+
+<img align="right" width="300" src="https://i.imgur.com/8Km9tLL.png"/>
+
+Hola, soy **NightVibe**.
+
+Desarrollo proyectos enfocados en:
+
+- 🧠 Inteligencia Artificial
+- ⚙️ Automatización
+- 💬 Sistemas Conversacionales
+- 🎨 Diseño Tecnológico
+- 🚀 Arquitecturas Modulares
+
+Actualmente estoy construyendo:
+
+### Ω NEXARIS OMEGA
+
+Una IA conversacional avanzada diseñada para evolucionar mediante módulos especializados, memoria dinámica y simulación emocional.
+
+> *"No es solo código, es construir realidades."*
+
+<br clear="right"/>
 
 ---
 
-## 🧠 Sobre mí
-Soy estudiante con interés en la programación y el desarrollo de proyectos digitales.  
-Exploro constantemente nuevas herramientas y formas de mejorar mis habilidades técnicas.
+# 🚀 PROYECTOS DESTACADOS
+
+<table>
+<tr>
+
+<td width="50%">
+
+## Ω NEXARIS OMEGA
+
+### IA Conversacional Avanzada
+
+🧠 Memoria Dinámica
+
+🎭 Simulación Emocional
+
+📚 Sistema Educativo
+
+⚙️ Arquitectura Modular
+
+🔒 Sistema de Seguridad
+
+🌐 Eventos Especiales
+
+</td>
+
+<td width="50%">
+
+```text
+STATUS: ONLINE
+
+VERSION: 5.1.0
+
+CODENAME: OMEGA
+
+MEMORY: ACTIVE
+
+EMOTION: ACTIVE
+
+LEARNING: ACTIVE
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## ⚙️ Habilidades actuales
-- JavaScript (nivel básico / en progreso)
-- Git y GitHub
-- Node.js básico
-- Estructuración de proyectos simples
+# 🧠 CAPACIDADES
+
+| Sistema | Estado |
+|----------|----------|
+| Memoria Inteligente | 🟢 Activo |
+| Simulación Emocional | 🟢 Activo |
+| Aprendizaje Modular | 🟢 Activo |
+| Motor Educativo | 🟢 Activo |
+| Eventos Especiales | 🟢 Activo |
+| Seguridad Avanzada | 🟢 Activo |
 
 ---
 
-## 📂 Proyectos
-- Proyecto 1: en desarrollo
-- Proyecto 2: en desarrollo
+# 💻 TECNOLOGÍAS
 
-> Nota: Esta sección se actualizará conforme avance mi experiencia.
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,react,git,github,linux,bash,vscode" />
 
-## 🎯 Objetivo
-Mejorar mis habilidades en desarrollo de software construyendo proyectos reales y escalables, enfocándome en buenas prácticas y estructura limpia.
+</div>
 
 ---
 
-## 📫 Contacto
-- GitHub: NightVibe-dev
-- Email: quien sabe?
+# 📊 ESTADÍSTICAS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## ⚠️ Estado del perfil
-En evolución constante. Actualizaciones frecuentes.
+# ⚡ FILOSOFÍA
+
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║  La imaginación es el inicio         ║
+║  de toda innovación.                 ║
+║                                      ║
+║  Diseña. Construye. Evoluciona.      ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+---
+
+# 🌌 OBJETIVOS
+
+- Crear sistemas de IA cada vez más autónomos.
+- Llevar NEXARIS Ω a su versión definitiva.
+- Diseñar arquitecturas escalables.
+- Fusionar creatividad y tecnología.
+- Construir proyectos con identidad propia.
+
+---
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# N I G H T V I B Ξ
+
+### Creator of NEXARIS Ω
+
+*"Beyond Commands, Beyond Logic."*
+
+<br>
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-Profile-7a3cff?style=for-the-badge">
+</a>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
